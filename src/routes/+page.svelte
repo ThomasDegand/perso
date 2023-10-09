@@ -28,12 +28,4 @@
 <!---- CODE CSS ----->
 <!------------------->
 <style>
-	.block
-	{
-		margin: 0;
-		padding: 0;
-		position: absolute;
-		top: 0px;
-		left: 200px;
-	}
 </style>
